@@ -4,10 +4,10 @@
 
 ## Hi, I am Mudita 👋
 
-:woman_technologist: I am a Software Engineer and an aspiring Data Scientist.
+:woman_technologist: I am a Research Data Scientist, specializing in model training and development.
 
-- 🔭 I’m currently pursuing my Master's degree in Data Science and Software Engineering as part of the EDISS programme.
-- 🌱 I’m working as a Research assistant at Åbo Akademi University in Finland.
+- 🔭 I completed my Master's degree in Data Science and Software Engineering as part of the EDISS programme in 2024.
+- 🌱 My current work focuses on generative AI with a primary focus on post-training methodologies.
 - 👯 I’m looking to collaborate on Machine Learning and Data Science projects.
 - 🤔 I’m interested in building data-driven systems to solve real-world problems.
 - 📫 Reach me at: [![Linkedin Badge](https://img.shields.io/badge/-muditashakya-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mudita-shakya)
